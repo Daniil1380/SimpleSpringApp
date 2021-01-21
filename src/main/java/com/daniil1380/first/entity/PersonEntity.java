@@ -1,5 +1,8 @@
 package com.daniil1380.first.entity;
 
+
+
+
 import javax.persistence.*;
 import java.util.Objects;
 
